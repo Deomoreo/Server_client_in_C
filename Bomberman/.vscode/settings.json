@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ws2tcpip.h": "c",
+        "sdl.h": "c",
+        "stb_image.h": "c",
+        "winsock2.h": "c",
+        "float.h": "c",
+        "stdio.h": "c"
+    }
+}
