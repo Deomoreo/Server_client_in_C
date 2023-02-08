@@ -5,6 +5,9 @@
         "stb_image.h": "c",
         "winsock2.h": "c",
         "float.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "*.rh": "c",
+        "fcntl.h": "c",
+        "byte_converter.h": "c"
     }
 }

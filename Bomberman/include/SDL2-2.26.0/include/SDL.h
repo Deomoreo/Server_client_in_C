@@ -30,7 +30,6 @@
 #define SDL_h_
 
 #include "SDL_main.h"
-//#include "SDL_image.h"
 #include "SDL_stdinc.h"
 #include "SDL_assert.h"
 #include "SDL_atomic.h"
